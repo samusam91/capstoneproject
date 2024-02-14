@@ -82,7 +82,7 @@ value - (dict of strings) - either an offer id or transaction amount depending o
   - What are the main programming languages used by the respondents? 
   - Show the results
 
-## Link to Blog : https://medium.com/@milazzosamuel/skills-and-experiences-analysis-of-it-professionals-8e29726f67da
+## Link to Blog : https://medium.com/@milazzosamuel/starbucks-analysis-project-ed2bc0914484
 
 None
 
